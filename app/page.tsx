@@ -43,7 +43,7 @@ export default function Home() {
     <main className="min-h-screen bg-gray-100 flex justify-center items-center">
       <div className="bg-white p-6 rounded-xl shadow-lg w-96">
         <h1 className="text-2xl font-bold mb-4 text-center">
-          Task Manager 🚀
+          Task Manager
         </h1>
 
         <div className="flex gap-2 mb-4">
